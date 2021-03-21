@@ -1,4 +1,4 @@
-# (CRUD Operation) This is one of my tutorial classes in learning Node.js, Express and MongoDB
+# (CRUD Operation) This is from one of my tutorial classes in learning Node.js, Express and MongoDB
 
 ## Objective 
 To build a simple CRUD operation. 
